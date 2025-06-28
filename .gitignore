@@ -1,0 +1,3 @@
+/target
+**/*.bin
+.gdb_history
